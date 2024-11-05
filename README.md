@@ -41,13 +41,7 @@ The dataset used for this project is named `loan_approval_dataset`. It contains 
 - Development of a real-time deployment pipeline.
 - Creation of a user-friendly interface for customers to track loan status and receive personalized suggestions for improving eligibility.
 
-## Team Members
 
-- Dheeraj Pillalamarri
-- Kavya Sree Katepalli
-- Sai Teja Bandaru
-- Swetha Manchukonda
-- Abhiram Thammannagari Sudhakar
 
 ## Acknowledgements
 
